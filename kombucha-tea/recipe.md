@@ -29,7 +29,7 @@ Transfer the brew from the jar into bottles that can be pressurized. At this poi
 
 Let the brew ferment again in the bottles for 2 to 3 days. The fermentation will produce CO2, which will make the brew fizzy. 
 
-## step 4: 9th day
+## step 5: 9th day
 
 Put the bottles in the fridge to slow down the fermentation. Consume them.
 
